@@ -41,26 +41,6 @@ I build clean, production-grade web applications — from database design to res
 
 > *"Writing clean, secure, and scalable enterprise applications—from database design to cloud deployment."*
 
-✔ ASP.NET Core Web API
-
-✔ Angular & React
-
-✔ SQL Server
-
-✔ Entity Framework Core
-
-✔ Azure Cloud
-
-✔ JWT Authentication
-
-✔ REST APIs
-
-✔ Clean Architecture
-
-✔ Microservices
-
-✔ CI/CD
-
 ---
 
 # 🚀 Tech Stack
@@ -172,11 +152,6 @@ I build clean, production-grade web applications — from database design to res
 
 ---
 
-# 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurivilas7571&layout=compact&theme=tokyonight)
-
----
 
 # 🚀 Featured Projects
 
@@ -261,3 +236,8 @@ Loan Origination Platform
 ## 🐍 Contribution Graph
 
 ![](https://raw.githubusercontent.com/mayurivilas7571/mayurivilas7571/output/github-contribution-grid-snake.svg)
+
+## ⚡ Fun Fact
+
+💡 "Code is like humor. When you have to explain it, it’s bad."
+
