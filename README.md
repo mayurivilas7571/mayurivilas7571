@@ -40,7 +40,6 @@ I build clean, production-grade web applications — from database design to res
 - ⚡ **Architecture:** Building scalable applications using Clean Architecture, Repository Pattern, MVC, and Microservices.
 
 > *"Writing clean, secure, and scalable enterprise applications—from database design to cloud deployment."*
-
 ---
 
 # 🚀 Tech Stack
@@ -56,6 +55,7 @@ I build clean, production-grade web applications — from database design to res
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 </p>
 ---
+## 🎨 Frontend
 
 ## 🎨 Frontend
 
@@ -99,6 +99,7 @@ I build clean, production-grade web applications — from database design to res
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 ---
+## ☁️ Cloud & DevOps
 
 ## 🗄️ Database
 
