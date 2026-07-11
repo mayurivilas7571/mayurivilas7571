@@ -12,14 +12,13 @@ Hi 👋, I'm Mayuri Kawar
 <img src="https://img.shields.io/badge/Gmail-mayuri.kawar1390@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/mayurivilas7571">
+<img src="https://img.shields.io/badge/GitHub-mayurivilas7571-black?style=for-the-badge&logo=github"/>
 </a>
 
 <img src="https://img.shields.io/badge/Pune-Maharashtra-blue?style=for-the-badge&logo=googlemaps"/>
 
-<img src="https://img.shields.io/badge/Open-To%20Work-brightgreen?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Open%20To%20Work-Available-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -55,8 +54,9 @@ I build clean, production-grade web applications — from database design to res
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 </p>
-
 ---
+## 🎨 Frontend
+
 ## 🎨 Frontend
 
 <p align="left">
@@ -99,6 +99,7 @@ I build clean, production-grade web applications — from database design to res
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 ---
+## ☁️ Cloud & DevOps
 
 ## 🗄️ Database
 
@@ -121,6 +122,7 @@ I build clean, production-grade web applications — from database design to res
 </p>
 
 ---
+
 ## ☁️ Cloud & DevOps
 
 <p align="left">
@@ -151,11 +153,6 @@ I build clean, production-grade web applications — from database design to res
 
 ---
 
-# 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurivilas7571&layout=compact&theme=tokyonight)
-
----
 
 # 🚀 Featured Projects
 
