@@ -18,8 +18,7 @@ Hi 👋, I'm Mayuri Kawar
 
 <img src="https://img.shields.io/badge/Pune-Maharashtra-blue?style=for-the-badge&logo=googlemaps"/>
 
-<img src="https://img.shields.io/badge/Open-To-Work-brightgreen?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Open%20To%20Work-Available-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
